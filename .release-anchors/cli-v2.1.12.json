@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "product": "vcoder-cli-release-anchor",
+  "tag": "cli-v2.1.12",
+  "version": "2.1.12",
+  "sourceCommit": "8132d26fcb901b837a1176f971f1349828e12148",
+  "manifestSha256": "478a442b0427d752dbda85b69a1e28f5929a0dfa0fdef49ec1d8b3b7423544dc"
+}
